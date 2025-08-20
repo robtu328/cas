@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns0:SignedLogs xmlns:ns0="http://xmlns.nagra.com/PLM/EBO/SignedLog/02.00.00" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.nagra.com/PLM/EBO/SignedLog/02.00.00" xsi:schemaLocation="http://xmlns.nagra.com/PLM/EBO/SignedLog/02.00.00 CPR_XXX.xsd">
+  <ns0:Header ChipsetTypeString="05 6623 1419" ChipsetReferenceCutRelease="A3" ChipsetReferenceExtension="TxGxxx" EAT="0000000000000221" Port="2502" IP="::10.252.8.21" FormatVersion="02.00.00"/>
+  <ns0:Logs CreationDate="2025/02/28 00:00" NumberOfRecords="7149">
+    <ns0:LogRecord NUID="cae4fa64" VUID="b42920b501380219" CN="528bbbcf" CCN="908acd6651660c1d" ACK="00" CRC-32="3e43ff82" DeliveryDate="2025/02/28 00:00"/>
+    <ns0:LogRecord NUID="cae4fa64" VUID="b42920b501380219" CN="528bbbcf" CCN="908acd6651660c1d" ACK="00" CRC-32="3e43ff82" DeliveryDate="2025/02/28 00:00"/>
+  </ns0:Logs>
+</ns0:SignedLogs>
